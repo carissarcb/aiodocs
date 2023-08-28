@@ -1,0 +1,8 @@
+{
+  "label": "Create a Data Mesh Product",
+  "position": 12,
+  "link": {
+    "type": "generated-index",
+    "description": "Here, we'll work with our Taxi Domain and Weather Domain to create a data product ready for analysis."
+  }
+}
